@@ -1,0 +1,2 @@
+Sim , porque podemos utilizar condicionais para verificarmos as notas se foram acima da média 
+Também poderiamos utilizar um contador pra somar quantas notas atendem a essa condição 
